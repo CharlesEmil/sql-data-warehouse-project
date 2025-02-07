@@ -24,3 +24,30 @@ This project involves:
 - **[Notion Project Steps](https://www.notion.so/Data-Warehouse-Project-18f19c934bb4800da2f7cf781db308fe?pvs=4):** Access to All Project Phases and Tasks.
 
 
+---
+
+## 🚀 Project Requirements
+
+### Building the Data Warehouse 
+
+#### Objective
+Build a modern SQL Server data warehouse to centralize sales data, enabling analytical reporting and data-driven decision-making.
+
+#### Specifications
+- **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
+- **Data Quality**: Clean and resolve any data quality issues before analysis.
+- **Integration**: Merge both sources into a single, structured data model optimized for analytical queries.
+- **Scope**: Focus only on the latest dataset; historical data storage is not required.
+- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+---
+
+### BI: Analytics & Reporting 
+
+#### Objective
+Develop SQL-based analytics to generate key business insights on:
+- **Customer Behavior**
+- **Product Performance**
+- **Sales Trends**
+
+🎯 These insights will provide stakeholders with essential metrics to drive strategic decision-making.
+
