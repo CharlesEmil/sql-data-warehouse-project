@@ -51,3 +51,18 @@ Develop SQL-based analytics to generate key business insights on:
 
 🎯 These insights will provide stakeholders with essential metrics to drive strategic decision-making.
 
+---
+
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 🌟 About Me
+
+Hey there I'm **Charles-emil Fouché** ! Curently working as Sales Man in Darty. I’m on a mission to transition  from Sales Man to a Data Analyst !
+
+Let's stay in touch! Feel free to connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-emil-fouche/)
+
