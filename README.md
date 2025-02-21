@@ -70,7 +70,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🌟 About Me
 
-Hey there I'm **Charles-emil Fouché** ! Curently working as Sales Man in Darty. I’m on a mission to transition  from Sales Man to a Data Analyst !
+Hey there I'm **Charles-emil Fouché** ! Curently working as Sales Man. I’m on a mission to transition from Sales Man to a Data Analyst !
 
 Let's stay in touch! Feel free to connect with me:
 
