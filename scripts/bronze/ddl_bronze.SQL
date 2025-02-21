@@ -13,8 +13,8 @@ IF OBJECT_ID('bronze.crm_cust_info', 'U') IS NOT NULL
 	DROP TABLE bronze.crm_cust_info;
 GO
 CREATE TABLE bronze.crm_cust_info(
-	cst_id				INT,
-	cst_key				NVARCHAR(50),
+	cst_id			INT,
+	cst_key			NVARCHAR(50),
 	cst_firstname		NVARCHAR(50),
 	cst_lastname		NVARCHAR(50),
 	cst_material_status     NVARCHAR(50),
@@ -57,8 +57,8 @@ IF OBJECT_ID('bronze.erp_loc_a101', 'U') IS NOT NULL
 	DROP TABLE bronze.erp_loc_a101;
 GO
 CREATE TABLE bronze.erp_loc_a101(
-	cid		NVARCHAR(50),
-	cntry		NVARCHAR(50)
+	cid			NVARCHAR(50),
+	cntry			NVARCHAR(50)
 );
 GO
 
@@ -66,9 +66,9 @@ IF OBJECT_ID('bronze.erp_cust_az12', 'U') IS NOT NULL
 	DROP TABLE bronze.erp_cust_az12;
 GO
 CREATE TABLE bronze.erp_cust_az12(
-	cid		NVARCHAR(50),
-	bdate		DATE,
-	gen		NVARCHAR(50)
+	cid			NVARCHAR(50),
+	bdate			DATE,
+	gen			NVARCHAR(50)
 );
 GO
 
