@@ -31,7 +31,7 @@ This project involves:
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database. 
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
-- **[Notion Project Steps](https://www.notion.so/Data-Warehouse-Project-18f19c934bb4800da2f7cf781db308fe?pvs=4):** Access to All Project Phases and Tasks.
+- **[Notion Project Steps](https://clever-radio-aa9.notion.site/Data-Warehouse-Project-18f19c934bb4800da2f7cf781db308fe):** Access to All Project Phases and Tasks.
 
 
 ---
